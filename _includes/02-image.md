@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Charmander](https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png)
