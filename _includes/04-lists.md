@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+## Two favorite movies:
+1. Donnie Darko
+2. Perfect Blue
